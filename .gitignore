@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+plot/
+.DS_Store
+halftone-images.Rproj
